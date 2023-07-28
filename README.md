@@ -1,3 +1,4 @@
+# TrustBallot- Decentralized Voting Blockchain Application 
 To run the code, you need to run the following commands.
 
 npm install
